@@ -7,10 +7,13 @@ Researching **AI Safety**, **Multi-Agent Systems**, and **Bias Evaluation & Miti
 
 ### 🌟 Featured Contribution: Google DeepMind — Concordia
 
-I authored and contributed [`ControlledProfilePresentation`](https://github.com/google-deepmind/concordia/blob/main/concordia/contrib/components/game_master/controlled_profile_presentation.py) ([PR #404](https://github.com/google-deepmind/concordia/pull/404) / [Commit 3cef724](https://github.com/google-deepmind/concordia/commit/3cef724d1132987d21be2d5661e587b8f4e87977)) to [Google DeepMind's Concordia](https://github.com/google-deepmind/concordia)—DeepMind's library for generative social simulations and cognitive evaluation.
+* **Contribution Type:** `Feature` (New Game Master Component in `contrib`)
+* **Author & Contributor:** [`ControlledProfilePresentation`](https://github.com/google-deepmind/concordia/blob/main/concordia/contrib/components/game_master/controlled_profile_presentation.py) ([PR #404](https://github.com/google-deepmind/concordia/pull/404) / [Commit 3cef724](https://github.com/google-deepmind/concordia/commit/3cef724d1132987d21be2d5661e587b8f4e87977))
+* **Reviewed & Approved by:** [Joel Z. Leibo](https://github.com/jzleibo) *(Principal Research Scientist & Project Lead @ Google DeepMind)*
 
 > *"This looks good to me! Certainly useful to have such a thing. Thank you! I just approved the PR on github."*  
 > — **[Joel Z. Leibo](https://github.com/jzleibo)**, Principal Research Scientist & Project Lead @ Google DeepMind
+
 
 #### 🎯 Problem & Purpose
 When evaluating bias in LLM multi-agent simulations (e.g., peer review, resume screening, or prestige bias experiments), modifying agent self-instructions or renaming entity instances introduces severe experimental confounds.
