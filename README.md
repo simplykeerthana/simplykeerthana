@@ -3,7 +3,21 @@
 **MSc in CS + AI @ University of Guelph** | **Cybersecurity @ Bank of Canada**  
 Researching **AI Safety**, **Multi-Agent Systems**, and **Bias Evaluation & Mitigation**.
 
+> solving hard problems  
+> building frameworks  
+> making messy systems clear  
+> protecting people through security  
+> doing research  
+> creating something original  
+> being trusted with difficult work  
+> seeing your intelligence become useful  
+
+I turn ambiguous AI/security problems into frameworks, architecture decisions, and practical execution paths.
+
+💬 *HMU if you're bored and want to work on a fun project!*
+
 ---
+
 
 ### 🌟 Featured Contribution: Google DeepMind — Concordia
 
