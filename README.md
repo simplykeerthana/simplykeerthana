@@ -1,6 +1,6 @@
 # Hi, I'm Keerthana (கீர்த்தனா) Madhavan 👋
 
-**MSc in CS + AI @ University of Guelph** | **Cybersecurity @ Bank of Canada**  
+**MSc in CS + AI @ University of Guelph** | **Cybersecurity Engineer III @ American Express
 Researching **AI Safety**, **Multi-Agent Systems**, and **Bias Evaluation & Mitigation**.
 
 > solving hard problems  
